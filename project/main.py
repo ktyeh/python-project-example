@@ -8,6 +8,5 @@ if __name__ == '__main__':
     opts = options.parse(sys.argv[1:])
 
     v = Project(opts)
-
-    v.date()
-    v.print_example_arg()
+    v.date()  # get info from command line
+    v.deal_with_arg()  # do something with argument

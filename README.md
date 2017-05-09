@@ -1,6 +1,8 @@
 ## Introduction
 
-This project is an example for a python command-line application structure with a unit testing framework
+This project is an example for a python command-line application structure with a unit testing framework from mrako/python-example-project
+
+Added configure and log directory
 
 ## Prerequisites
 
